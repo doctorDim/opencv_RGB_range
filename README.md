@@ -1,1 +1,1 @@
-# opencv_RGB_range
+# Opencv RGB range
