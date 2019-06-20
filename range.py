@@ -49,8 +49,7 @@ def range(camera):
                         "MINR = " + str(minr) + "\n"
                         "MAXB = " + str(maxb) + "\n"
                         "MAXG = " + str(maxg) + "\n"
-                        "MAXR = " + str(maxr) + "\n"
-                        "Y = " + str(frame.shape[0]))
+                        "MAXR = " + str(maxr))
             handle.close()
             break
 
